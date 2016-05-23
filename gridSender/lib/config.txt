@@ -1,0 +1,8 @@
+apiKey: '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'
+fromAddress: testing@christusmugerza.com.mx
+subject: Subject
+category: TEST2
+templateFile: '/home/lyer/ChristusTesting/template.hbs'
+emailsFile: '/home/lyer/ChristusTesting/emails.txt'
+uidsFile: '/home/lyer/ChristusTesting/uids.txt'
+sleepTime: 10
